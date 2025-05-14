@@ -4,10 +4,10 @@ Este projeto detecta automaticamente a presença e o uso correto de Equipamentos
 
 ## 🔍 Funcionalidades
 
-- ✅ Detecção de EPIs: capacete, óculos, colete, máscara, touca, bota, protetor auricular.
+- 👷 Detecção de EPIs: capacete, óculos, colete, máscara, touca, bota, protetor auricular.
 - ✅ Verificação de posicionamento correto dos EPIs
 - 😴 Detecção de sonolência com MediaPipe (face mash)
-- 📱 Detecção de uso de celular e alimentação
+- 📱  Detecção de uso de celular e alimentação
 - 🔊 Alertas sonoros ou visuais diferentes para cada situação
 - 🟢 Diagnóstico com texto e cor na tela (verde: normal, vermelho: alerta)
 - 📊 Emitir diagnóstico de taxa de confiabilidade
