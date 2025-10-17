@@ -1,4 +1,4 @@
-# TCC2 – Sistema de Detecção de EPIs, Sonolência e Comportamentos Inseguros com visão computacional.
+Sistema de Detecção de EPIs, Sonolência e Comportamentos Inseguros com visão computacional.
 
 Este projeto detecta automaticamente a presença e o uso correto de Equipamentos de Proteção Individual (EPIs), sinais de sonolência, uso de celular e alimentação, emitindo alertas sonoros em decorrência de comportamento de risco em ambientes industriais, civis, e laboratório, utilizando ferramentas de inteligência artificial e machine learling como YOLOv8, MediaPipe, OpenCV e alarmes sonoros.
 
